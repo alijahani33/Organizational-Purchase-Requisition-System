@@ -21,12 +21,9 @@
 اقدامات شرطی و هوشمند: نمایش دکمه‌ها و گزینه‌ها (مانند تایید، رد، ویرایش، لغو) بر اساس نقش کاربر، وضعیت فعلی درخواست و مجوزهای تخصیص‌داده‌شده.
 
 🖼️ تصاویری از پروژه
-(نکته: مطمئن شوید نام فایل‌های عکس شما در پوشه images دقیقاً مانند آدرس‌های src زیر باشد.)
 
-صفحه ورود	داشبورد اصلی	صفحه ثبت درخواست
 <img src="./images/1.png" alt="Login Page" width="250"/>	<img src="./images/2.png" alt="Dashboard" width="250"/>	<img src="./images/3.png" alt="New Request Page" width="250"/>
 
-جزئیات درخواست	تاریخچه اقدامات
 <img src="./images/4.png" alt="Request Details" width="250"/>	<img src="./images/5.png" alt="Action History" width="250"/>
 <img src="./images/6.png" alt="Action History" width="250"/>
 
@@ -64,12 +61,8 @@ Complete Audit Trail: Logs and displays the full history of all events, changes,
 Conditional & Smart Actions: Dynamically displays action buttons and options (e.g., Approve, Reject, Edit, Cancel) based on the user's role, the request's current status, and assigned permissions.
 
 🖼️ Project Screenshots
-(Note: Ensure your image filenames in the images folder match the src paths below.)
 
-Login Page	Main Dashboard	New Request Form
 <img src="./images/1.png" alt="Login Page" width="250"/>	<img src="./images/2.png" alt="Dashboard" width="250"/>	<img src="./images/3.png" alt="New Request Page" width="250"/>
-
-Request Details	Action History / Audit Trail
 <img src="./images/4.png" alt="Request Details" width="250"/>	<img src="./images/5.png" alt="Action History" width="250"/>
 <img src="./images/6.png" alt="Action History" width="250"/>
 
