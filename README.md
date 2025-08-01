@@ -1,7 +1,6 @@
 🏢 سیستم درخواست خرید سازمانی | Organizational Purchase Requisition System
-یک سامانه تحت وب امن و کارآمد برای مکانیزه کردن و بهینه‌سازی فرآیندهای ثبت و تایید درخواست خرید در سازمان‌ها.
 
-A secure and efficient web-based system designed to automate and optimize the internal purchase requisition and approval process within organizations.
+یک سامانه تحت وب امن و کارآمد برای مکانیزه کردن و بهینه‌سازی فرآیندهای ثبت و تایید درخواست خرید در سازمان‌ها.
 
 <br>
 
@@ -39,7 +38,7 @@ Backend
 Frontend	
 Authentication	
 
-Export to Sheets
+
 🔒 جنبه‌های فنی و امنیتی برجسته
 موتور Workflow مبتنی بر وضعیت: طراحی و پیاده‌سازی یک موتور گردش کار قدرتمند برای مدیریت منطق پیچیده تاییدها و انتقال بین وضعیت‌های مختلف.
 
@@ -50,6 +49,7 @@ Export to Sheets
 امنیت: تمرکز ویژه بر احراز هویت (Authentication)، کنترل دسترسی (Authorization) و محافظت در برابر حملات CSRF.
 
 <br>
+
 
 🇬🇧 English Version
 📝 Summary
@@ -74,11 +74,12 @@ Conditional & Smart Actions: Dynamically displays action buttons and options (e.
 Login Page	Main Dashboard	New Request Form
 <img src="./images/1-login-page.png" alt="Login Page" width="250"/>	<img src="./images/2-dashboard.png" alt="Dashboard" width="250"/>	<img src="./images/3-new-request-form.png" alt="New Request Page" width="250"/>
 
-Export to Sheets
+
 Request Details	Action History / Audit Trail
 <img src="./images/4-request-details.png" alt="Request Details" width="250"/>	<img src="./images/5-action-history.png" alt="Action History" width="250"/>
 
-Export to Sheets
+
+
 🚀 Technology Stack
 Area	Technology
 Backend	
