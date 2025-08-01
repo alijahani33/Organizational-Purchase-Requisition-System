@@ -27,11 +27,9 @@
 صفحه ورود	داشبورد اصلی	صفحه ثبت درخواست
 <img src="./images/1-login-page.png" alt="Login Page" width="250"/>	<img src="./images/2-dashboard.png" alt="Dashboard" width="250"/>	<img src="./images/3-new-request-form.png" alt="New Request Page" width="250"/>
 
-Export to Sheets
 جزئیات درخواست	تاریخچه اقدامات
 <img src="./images/4-request-details.png" alt="Request Details" width="250"/>	<img src="./images/5-action-history.png" alt="Action History" width="250"/>
 
-Export to Sheets
 🚀 فناوری‌های استفاده شده
 بخش	تکنولوژی
 Backend	
