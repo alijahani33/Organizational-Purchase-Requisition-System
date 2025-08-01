@@ -1,10 +1,9 @@
 🏢 سیستم درخواست خرید سازمانی | Organizational Purchase Requisition System
-
 یک سامانه تحت وب امن و کارآمد برای مکانیزه کردن و بهینه‌سازی فرآیندهای ثبت و تایید درخواست خرید در سازمان‌ها.
+
 
 <br>
 
-🇮🇷 نسخه فارسی
 📝 خلاصه
 سامانه جامع درخواست خرید، جایگزینی مدرن برای فرآیندهای دستی و کاغذی است که با هدف افزایش شفافیت، کنترل و کارایی در چرخه تدارکات سازمان طراحی شده است. این سیستم یک گردش کار چندسطحی برای تایید درخواست‌ها فراهم کرده و با کنترل دسترسی دقیق، امنیت فرآیند را تضمین می‌کند.
 
@@ -25,17 +24,17 @@
 (نکته: مطمئن شوید نام فایل‌های عکس شما در پوشه images دقیقاً مانند آدرس‌های src زیر باشد.)
 
 صفحه ورود	داشبورد اصلی	صفحه ثبت درخواست
-<img src="./images/1-login-page.png" alt="Login Page" width="250"/>	<img src="./images/2-dashboard.png" alt="Dashboard" width="250"/>	<img src="./images/3-new-request-form.png" alt="New Request Page" width="250"/>
+<img src="./images/1.png" alt="Login Page" width="250"/>	<img src="./images/2.png" alt="Dashboard" width="250"/>	<img src="./images/3.png" alt="New Request Page" width="250"/>
 
 جزئیات درخواست	تاریخچه اقدامات
-<img src="./images/4-request-details.png" alt="Request Details" width="250"/>	<img src="./images/5-action-history.png" alt="Action History" width="250"/>
+<img src="./images/4.png" alt="Request Details" width="250"/>	<img src="./images/5.png" alt="Action History" width="250"/>
+<img src="./images/6.png" alt="Action History" width="250"/>
 
 🚀 فناوری‌های استفاده شده
 بخش	تکنولوژی
 Backend	
 Frontend	
 Authentication	
-
 
 🔒 جنبه‌های فنی و امنیتی برجسته
 موتور Workflow مبتنی بر وضعیت: طراحی و پیاده‌سازی یک موتور گردش کار قدرتمند برای مدیریت منطق پیچیده تاییدها و انتقال بین وضعیت‌های مختلف.
@@ -47,9 +46,6 @@ Authentication
 امنیت: تمرکز ویژه بر احراز هویت (Authentication)، کنترل دسترسی (Authorization) و محافظت در برابر حملات CSRF.
 
 <br>
-
-
-
 
 📝 Summary
 This comprehensive Purchase Requisition System is a modern replacement for manual, paper-based processes. It is designed to enhance transparency, control, and efficiency within the organization's procurement cycle. The system provides a multi-level approval workflow and ensures process security through granular access control.
@@ -71,13 +67,11 @@ Conditional & Smart Actions: Dynamically displays action buttons and options (e.
 (Note: Ensure your image filenames in the images folder match the src paths below.)
 
 Login Page	Main Dashboard	New Request Form
-<img src="./images/1-login-page.png" alt="Login Page" width="250"/>	<img src="./images/2-dashboard.png" alt="Dashboard" width="250"/>	<img src="./images/3-new-request-form.png" alt="New Request Page" width="250"/>
-
+<img src="./images/1.png" alt="Login Page" width="250"/>	<img src="./images/2.png" alt="Dashboard" width="250"/>	<img src="./images/3.png" alt="New Request Page" width="250"/>
 
 Request Details	Action History / Audit Trail
-<img src="./images/4-request-details.png" alt="Request Details" width="250"/>	<img src="./images/5-action-history.png" alt="Action History" width="250"/>
-
-
+<img src="./images/4.png" alt="Request Details" width="250"/>	<img src="./images/5.png" alt="Action History" width="250"/>
+<img src="./images/6.png" alt="Action History" width="250"/>
 
 🚀 Technology Stack
 Area	Technology
@@ -85,7 +79,6 @@ Backend
 Frontend	
 Authentication	
 
-Export to Sheets
 🔒 Technical & Security Highlights
 State-Based Workflow Engine: A custom-built, robust workflow engine to manage the complex logic of approvals and state transitions.
 
