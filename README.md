@@ -49,7 +49,8 @@ Authentication
 <br>
 
 
-🇬🇧 English Version
+
+
 📝 Summary
 This comprehensive Purchase Requisition System is a modern replacement for manual, paper-based processes. It is designed to enhance transparency, control, and efficiency within the organization's procurement cycle. The system provides a multi-level approval workflow and ensures process security through granular access control.
 
